@@ -1,0 +1,2 @@
+vv@vv-Alienware-m16-R2:~/week4_ws$ clang-tidy -p ~/week4_ws/build/walker --extra-arg=-std=c++17 src/walker/src/turtlebot_controller.cpp
+vv@vv-Alienware-m16-R2:
